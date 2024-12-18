@@ -1,6 +1,3 @@
-Here's an updated version of the `README.md` file, now including the "Installation" section for setting up the project using Git, GitHub Desktop, or downloading the ZIP file:
-
-```markdown
 # Pixel-Matrix-Language (PXLM)
 
 Pixel-Matrix-Language (PXLM) is a human-readable image file format designed for storing pixel color data as a matrix of hexadecimal color codes. It is particularly useful for developers and AI tools, helping with debugging, visualization, and error correction. This format ensures data integrity, even in cases of image corruption, making it a reliable choice for various image processing tasks.
@@ -153,6 +150,3 @@ We welcome contributions! To contribute to the project, follow these steps:
 ## License
 
 This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
-```
-
-Let me know if you'd like any further adjustments!
